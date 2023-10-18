@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021 - Jun 2025",
+            "cardTitle": "B.Tech, Computer Science Specialization in artificial intelligence and machine learning",
+            "cardSubtitle":"Vellore Institute Of Technology,AP",
+            "cardDetailedText": "CGPA - 8.59",
+            "icon" : {
+                "src": "images/education/vitclg.png"
+            }
+        },
+        {
+            "title": "Jun 2019 - July 2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"sri chaitanya Junior College,Guntur",
+            "cardDetailedText": "Marks 96%"
+        }
+    ]
+}
